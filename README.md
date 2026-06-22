@@ -8,6 +8,15 @@ The dashboard empowers stakeholders to monitor key business metrics, analyze tre
 
 ---
 
+## 📥 Download Power BI File
+
+The complete Power BI dashboard (.pbix) file can be accessed using the link below:
+
+🔗 **[Download Business Insights 360 PBIX](https://drive.google.com/file/d/1vfzO0bDCbe82p9Xks_ak3mrC0bXEEve8/view?usp=sharing)**
+
+> Due to GitHub's file size limitations, the Power BI source file is hosted on Google Drive.
+
+
 # 🏠 Home Page
 
 The **Home Page** acts as the central navigation hub of the dashboard, allowing users to seamlessly access all business functions and analytical views.
