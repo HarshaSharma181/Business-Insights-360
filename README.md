@@ -16,60 +16,37 @@ The dashboard enables stakeholders to monitor key business metrics, analyze tren
 
 ## 🏠 Home Page
 
-The **Home Page** acts as the central navigation hub of the dashboard, allowing users to seamlessly access different business functions and analytical views.
+![Home Page](Images1/Home%20Page.jpg)
 
-### Key Features
-
-* Interactive navigation buttons
-* Dashboard overview
-* Business function shortcuts
-* User-friendly interface
-* Centralized report access
-
-### Business Value
-
-Provides a streamlined user experience by enabling stakeholders to quickly navigate between different business perspectives.
+The **Home Page** acts as the central navigation hub of the dashboard, providing access to the different business functions and analytical views.  
+It gives users a simple and structured way to navigate through Finance, Sales, Marketing, Supply Chain, and Executive reports.
 
 ---
 
 ## ℹ️ Info Page
 
-The **Info Page** provides documentation and guidance to help users understand the dashboard structure, KPIs, and business objectives.
+![Info Page](Images1/Info%20Page.jpg)
 
-### Key Features
-
-* Project overview
-* Data model information
-* KPI definitions
-* Dashboard usage guidelines
-* Business context explanation
-
-### Business Value
-
-Helps users understand the reporting methodology and key performance indicators used throughout the dashboard.
+The **Info Page** provides important information about the dashboard and helps users understand its purpose and structure.  
+It provides useful context for interpreting the different business views and KPIs presented throughout the report.
 
 ---
 
 ## 🛠️ Support Page
 
-The **Support Page** serves as a dedicated help center for dashboard users.
+![Support Page](Images1/Support%20Page.jpg)
 
-### Key Features
-
-* Contact information
-* User assistance details
-* Issue reporting guidance
-* Dashboard maintenance information
-
-### Business Value
-
-Ensures users can quickly access support resources and provide feedback for continuous dashboard enhancement.
+The **Support Page** provides guidance and assistance for dashboard users.  
+It helps users understand where to get support and how to address issues or questions related to the dashboard.
 
 ---
 
 ## 💰 Finance View
 
-The **Finance View** provides detailed insights into the organization's financial health and profitability.
+![Finance View](Images1/Finance%20View.jpg)
+
+The **Finance View** provides a detailed overview of financial performance through key metrics such as Net Sales, Gross Margin, and Net Profit.  
+It helps stakeholders analyze profitability trends and understand customer and product contributions to overall financial performance.
 
 ### Key Insights
 
@@ -96,7 +73,10 @@ Enables finance teams to monitor revenue, profitability, and overall financial p
 
 ## 📈 Sales View
 
-The **Sales View** focuses on customer, product, and market performance to evaluate sales effectiveness and revenue growth.
+![Sales View](Images1/Sales%20View.jpg)
+
+The **Sales View** focuses on customer, product, and market performance to understand sales effectiveness and revenue contribution.  
+It helps identify high-performing customers, products, and market segments through interactive visual analysis.
 
 ### Key Insights
 
@@ -123,7 +103,10 @@ Helps sales teams identify high-performing customers, products, and markets whil
 
 ## 🚚 Supply Chain View
 
-The **Supply Chain View** provides operational insights into inventory management, demand planning, and fulfillment performance.
+![Supply Chain View](Images1/Supply%20Chain%20View.jpg)
+
+The **Supply Chain View** provides insights into inventory, demand, order fulfillment, and operational performance.  
+It helps stakeholders monitor supply chain efficiency, identify inventory-related issues, and understand product availability.
 
 ### Key Insights
 
@@ -150,7 +133,10 @@ Supports supply chain managers in improving inventory control, minimizing stock 
 
 ## 📢 Marketing View
 
-The **Marketing View** evaluates marketing performance, customer engagement, and product profitability.
+![Marketing View](Images1/Marketing%20View.jpg)
+
+The **Marketing View** evaluates marketing performance, customer engagement, and product profitability.  
+It helps users analyze market contribution, customer segments, and product-level performance to identify potential growth opportunities.
 
 ### Key Insights
 
@@ -177,7 +163,10 @@ Enables marketing teams to evaluate performance, optimize investments, and ident
 
 ## 👔 Executive View
 
-The **Executive View** provides a high-level summary of overall business performance, enabling leadership teams to monitor strategic KPIs and organizational outcomes.
+![Executive View](Images1/Executive%20View.jpg)
+
+The **Executive View** provides a consolidated summary of overall business performance for leadership teams.  
+It brings together strategic KPIs, revenue, profitability, sales, and market performance into a single executive-level view.
 
 ### Key Insights
 
@@ -204,14 +193,14 @@ Provides executives with a consolidated view of organizational performance, supp
 
 ## 🛠️ Tools & Technologies
 
-| Technology                | Purpose                                      |
-| ------------------------- | -------------------------------------------- |
-| **Power BI Desktop**      | Dashboard development and visualization      |
-| **Power Query**           | Data cleaning and transformation             |
-| **DAX**                   | KPI calculations and business logic          |
-| **Data Modeling**         | Building relationships and analytical models |
-| **ETL**                   | Data extraction, transformation, and loading |
-| **Business Intelligence** | Business performance analysis                |
+| Technology | Purpose |
+| --- | --- |
+| **Power BI Desktop** | Dashboard development and visualization |
+| **Power Query** | Data cleaning and transformation |
+| **DAX** | KPI calculations and business logic |
+| **Data Modeling** | Building relationships and analytical models |
+| **ETL** | Data extraction, transformation, and loading |
+| **Business Intelligence** | Business performance analysis |
 
 ---
 
@@ -256,5 +245,3 @@ Business Insights 360
 **Harsha Sharma**
 
 Data Analytics | Business Intelligence | Power BI | SQL | Python
-
----
